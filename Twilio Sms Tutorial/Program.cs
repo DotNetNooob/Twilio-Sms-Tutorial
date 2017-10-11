@@ -13,6 +13,7 @@ namespace Twilio_Sms_Tutorial
     {
         static void Main(string[] args)
         {
+            
             // Your Account SID from twilio.com/console
             var accountSid = "AC66c6ae920b1c0db9acfe2cbf945f607a";
             // Your Auth Token from twilio.com/console
@@ -28,6 +29,8 @@ namespace Twilio_Sms_Tutorial
             Console.WriteLine(message.Sid);
             Console.Write("Press any key to continue.");
             Console.ReadKey();
+
+            //Publish to Github
         }
     }
 }
