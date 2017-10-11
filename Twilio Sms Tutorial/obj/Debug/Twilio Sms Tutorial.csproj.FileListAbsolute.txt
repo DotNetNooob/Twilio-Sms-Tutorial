@@ -1,0 +1,15 @@
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\Twilio Sms Tutorial\Twilio Sms Tutorial\bin\Debug\Twilio Sms Tutorial.exe.config
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\Twilio Sms Tutorial\Twilio Sms Tutorial\bin\Debug\Twilio Sms Tutorial.exe
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\Twilio Sms Tutorial\Twilio Sms Tutorial\bin\Debug\Twilio Sms Tutorial.pdb
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\Twilio Sms Tutorial\Twilio Sms Tutorial\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\Twilio Sms Tutorial\Twilio Sms Tutorial\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\Twilio Sms Tutorial\Twilio Sms Tutorial\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\Twilio Sms Tutorial\Twilio Sms Tutorial\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\Twilio Sms Tutorial\Twilio Sms Tutorial\bin\Debug\Twilio.dll
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\Twilio Sms Tutorial\Twilio Sms Tutorial\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\Twilio Sms Tutorial\Twilio Sms Tutorial\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\Twilio Sms Tutorial\Twilio Sms Tutorial\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\Twilio Sms Tutorial\Twilio Sms Tutorial\bin\Debug\Twilio.xml
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\Twilio Sms Tutorial\Twilio Sms Tutorial\obj\Debug\Twilio Sms Tutorial.csprojResolveAssemblyReference.cache
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\Twilio Sms Tutorial\Twilio Sms Tutorial\obj\Debug\Twilio Sms Tutorial.exe
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\Twilio Sms Tutorial\Twilio Sms Tutorial\obj\Debug\Twilio Sms Tutorial.pdb
